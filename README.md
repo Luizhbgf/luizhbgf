@@ -10,7 +10,8 @@
 <p>
 
 
-Estudando/trabalhando na **...**<br/>
+Trabalhando no Banco Mercatil.**<br/>
+Estudando na Estácio(Ciencias da Computação).**<br/>
 
 Eu sou desenvolvedor **de software**.
 
