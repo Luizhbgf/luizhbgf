@@ -10,7 +10,7 @@
 <p>
 
 
-Trabalhando no Banco Mercatil.**<br/>
+Trabalhando na Prodabel.**<br/>
 Estudando na Estácio(Ciencias da Computação).**<br/>
 
 Eu sou desenvolvedor **de software**.
@@ -18,7 +18,7 @@ Eu sou desenvolvedor **de software**.
 </p>
 <hr>
 
-- 🌱 Atualmente estou aprendendo **python, java , php**
+- 🌱 Atualmente estou aprendendo **python, cisco , php**
 
 - 💬 Me pergunte sobre **Html, Css, Java, Python, C++,c#**
 
