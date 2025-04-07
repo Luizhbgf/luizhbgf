@@ -4,14 +4,14 @@
 <p> Atualmente, sou **estagiário de desenvolvimento** na **Prodemge**, onde trabalho com tecnologias como **CakePHP, PHP, MySQL** e **GitLab**. Tenho a oportunidade de aplicar meus conhecimentos na prática, realizando **análise de projetos** e contribuindo para soluções de software. <br> Também sou estudante de **Ciência da Computação** na Estácio e sempre em busca de novos aprendizados e desafios! </p>
 
 <hr>
-🌱 Atualmente, estou aprendendo:
+ 🌱 Atualmente, estou aprendendo:
 Python para automação e análise de dados
 
 Cisco para redes e infraestrutura
 
 PHP e CakePHP no desenvolvimento backend
 
-💬 Me pergunte sobre:
+ 💬 Me pergunte sobre:
 HTML, CSS, Java, Python, C++, C#, PHP, MySQL
 
 🔧 Tecnologias e Ferramentas que utilizo:
@@ -26,15 +26,16 @@ HTML, CSS, Java, Python, C++, C#, PHP, MySQL
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </div>
- ##
+
+
+📫 Você pode me encontrar em:
  
 <div> 
-📫 Você pode me encontrar em:
   <a href="https://instagram.com/luiz_.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizhbgf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-henrique-braz-gomes-fonseca-4a1061208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  🚀 Vamos conectar e trocar ideias sobre tecnologia e desenvolvimento!
 </div>
+
+🚀 Vamos conectar e trocar ideias sobre tecnologia e desenvolvimento!
 
 
